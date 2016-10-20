@@ -1,0 +1,28 @@
+{
+  "name": "gulpautomation",
+  "version": "1.0.0",
+  "description": "a gulp and handlebars project to generate files from json data and templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayRaparla/gulpAutomation.git"
+  },
+  "keywords": [
+    "gulp",
+    "handlebars"
+  ],
+  "author": "Dhananjay \"Jay\" Raparla",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/JayRaparla/gulpAutomation/issues"
+  },
+  "homepage": "https://github.com/JayRaparla/gulpAutomation#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-rename": "^1.2.2"
+  }
+}
