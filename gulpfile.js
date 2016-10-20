@@ -16,7 +16,7 @@ gulp.task('handlebars', function() {
                 gulp.src('template/*.handlebars')
                         .pipe(handlebars(speaker))
                         .pipe(rename(fileName + ".html"))
-                        .pipe(gulp.dest('build/speaker-profiles'));
+                        .pipe(gulp.dest('build/output'));
         }
 });
 
