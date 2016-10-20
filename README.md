@@ -1,7 +1,7 @@
 # gulpAutomation
 Project to take template files and fill them with data using gulp and handlebars
 
-####steps
+####Steps:
 
 1. Added package.json
 
